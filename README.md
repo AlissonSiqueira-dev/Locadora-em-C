@@ -1,1 +1,1 @@
-Sistema de gestão de uma uma locadora utilizando a linguagem C, para compartilhar os aprendizados da linguagem.
+Program in C for a movie rental company , the program allows you to save the records : film category, duration and whether it is rented or available for rent . 
